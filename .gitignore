@@ -15,10 +15,21 @@
 *.exe
 
 # DUB
+=======
 .dub
 docs.json
 __dummy.html
 docs/
 
 # Code coverage
+=======
+miniboole.so
+miniboole.dylib
+miniboole.dll
+miniboole.a
+miniboole.lib
+miniboole-test-*
+*.exe
+*.o
+*.obj
 *.lst

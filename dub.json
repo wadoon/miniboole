@@ -1,0 +1,12 @@
+{
+	"description": "A minimal D application.",
+	"dependencies": {
+		"pegged": "~>0.4.4"
+	},
+	"authors": [
+		"weigl"
+	],
+	"copyright": "Copyright © 2019, weigl",
+	"license": "proprietary",
+	"name": "miniboole"
+}
